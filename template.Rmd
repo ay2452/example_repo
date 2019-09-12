@@ -2,7 +2,7 @@
 title: "Basic Plots"
 author: "Alicia YAng"
 date: "9/12/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
